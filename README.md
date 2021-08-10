@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 
 🌱 I’m currently learning IA, Machine Learning
 
-👯 I’m looking to collaborate on Python and FrontEnd projects
+👯 I’m looking to collaborate on Python and BackEnd projects
 
 📫 You can find me in:
 - [LinkedIn](https://www.linkedin.com/in/paola-cartal%C3%A1-3b11b45a/)
