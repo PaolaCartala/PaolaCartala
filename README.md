@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paola</h1>
-<h3 align="center">A curious :beginner:Python Dev from Argentina</h3>
+<h3 align="center">A :beginner: Python Dev from :AR:Argentina</h3>
 
 - :floppy_disk: I'm working as **Django Developer**
 
