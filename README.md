@@ -3,7 +3,7 @@
 
 - :floppy_disk: I'm working as **Django Developer**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
 - 📫 How to reach me **paola.cartala@gmail.com**
 
