@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
-- 🎓 **Computer Engineer** ⏳ - Buenos Aires University
-
 - 📫 How to reach me **paola.cartala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
