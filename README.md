@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paola</h1>
 <h3 align="center">A :beginner: Python Dev from 🇦🇷 Argentina</h3>
 
-- :floppy_disk: I'm working as **Python Developer**
+- :floppy_disk: I'm working as **Machine Learning Engineer**
 
 - 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
